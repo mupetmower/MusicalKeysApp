@@ -1,0 +1,476 @@
+Mono path[0] = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data/Managed'
+Mono path[1] = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data/Mono'
+Mono config path = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55007
+Multi-casting "[IP] 192.168.188.1 [Port] 55007 [Flags] 2 [Guid] 410819440 [EditorId] 3302558775 [Version] 1048832 [Id] WindowsPlayer(mupetmower) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55007]
+PlayerConnection already initialized - listening to [0.0.0.0:55007]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.184 seconds
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild6-StreamsChordNameNumFileAndPlaysMusic4_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.749565 ms
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Target (3)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Target
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Target (3)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Target
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Target
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Target
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Target
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Pressed left click, casting ray.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:336)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 336)
+
+Hit object: Chord(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ChordManager:CastRay() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:388)
+ChordManager:OnTriggerStay2D(Collider2D) (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\ChordManager.cs:337)
+ 
+(Filename: C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Assets/Scripts/ChordManager.cs Line: 388)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16c8 -> priority: 1 

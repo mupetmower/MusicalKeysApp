@@ -1,0 +1,51 @@
+Mono path[0] = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data/Managed'
+Mono path[1] = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data/Mono'
+Mono config path = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55343
+Multi-casting "[IP] 192.168.0.3 [Port] 55343 [Flags] 2 [Guid] 3981674802 [EditorId] 2541544705 [Version] 1048832 [Id] WindowsPlayer(mupetmower) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55343]
+PlayerConnection already initialized - listening to [0.0.0.0:55343]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild5-StreamsChordNameNumFileAndPlaysMusic3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.734172 ms
+IsolatedStorageException: Could not find a part of the path "C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\Assets\Resources\SecondTestSongChords.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x001f9] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/FileStream.cs:290 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/FileInfo.cs:210 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/FileInfo.cs:205 
+  at System.IO.FileInfo.OpenText () [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/FileInfo.cs:168 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at GameManager.Awake () [0x00134] in C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\GameManager.cs:141 
+UnityEngine.Object:Internal_CloneSingle(Object)
+UnityEngine.Object:Instantiate(GameObject) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:202)
+Loader:Awake() (at C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Assets\Scripts\Loader.cs:14)
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/FileStream.cs Line: 290)
+

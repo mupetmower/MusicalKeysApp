@@ -1,0 +1,39 @@
+Mono path[0] = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild2-FinishedNewChordLineInit_Data/Managed'
+Mono path[1] = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild2-FinishedNewChordLineInit_Data/Mono'
+Mono config path = 'C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild2-FinishedNewChordLineInit_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/mupetmower1337/Documents/UnityProjects/MusicalKeysApp/Builds/TestBuilds/TestBuild2-FinishedNewChordLineInit_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55374
+Multi-casting "[IP] 192.168.0.3 [Port] 55374 [Flags] 2 [Guid] 3432075645 [EditorId] 3198667788 [Version] 1048832 [Id] WindowsPlayer(mupetmower) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55374]
+PlayerConnection already initialized - listening to [0.0.0.0:55374]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mupetmower1337\Documents\UnityProjects\MusicalKeysApp\Builds\TestBuilds\TestBuild2-FinishedNewChordLineInit_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.767331 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2d80 -> priority: 1 
